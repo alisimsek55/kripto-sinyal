@@ -1,0 +1,1258 @@
+{
+ "olusturma": "2026-11-15 20:40 UTC",
+ "ayarlar": {
+  "aylik_tutar": 100.0,
+  "komisyon": 0.001,
+  "kayma": 0.0005
+ },
+ "coinler": {
+  "DOGE": {
+   "veri_bas": "2019-07-05",
+   "veri_son": "2026-11-14",
+   "kurallar": {
+    "kisa": {
+     "kombinasyon": 288,
+     "secilen": {
+      "n": 7,
+      "x": 0.3,
+      "s": 0.2,
+      "y": 0.3,
+      "b": 1.0,
+      "t": 90
+     },
+     "metin": "7 günde +%30 -> %20 sat; -%30 düşüşte geri al (nakit kullanımı %100); bekleme sınırı 90 gün",
+     "egitim_ici_oran": 1.8325365241195462,
+     "kat_secimleri": [
+      {
+       "yil": 2021,
+       "kisa": {
+        "n": 7,
+        "x": 0.3,
+        "s": 0.5,
+        "y": 0.1,
+        "b": 1.0,
+        "t": 90
+       },
+       "uzun": null
+      },
+      {
+       "yil": 2022,
+       "kisa": {
+        "n": 7,
+        "x": 0.6,
+        "s": 0.2,
+        "y": 0.2,
+        "b": 1.0,
+        "t": 90
+       },
+       "uzun": null
+      },
+      {
+       "yil": 2023,
+       "kisa": {
+        "n": 7,
+        "x": 0.6,
+        "s": 0.2,
+        "y": 0.2,
+        "b": 1.0,
+        "t": 90
+       },
+       "uzun": null
+      },
+      {
+       "yil": 2024,
+       "kisa": {
+        "n": 7,
+        "x": 0.6,
+        "s": 0.2,
+        "y": 0.2,
+        "b": 1.0,
+        "t": 90
+       },
+       "uzun": null
+      },
+      {
+       "yil": 2025,
+       "kisa": {
+        "n": 7,
+        "x": 1.0,
+        "s": 0.2,
+        "y": 0.1,
+        "b": 1.0,
+        "t": 90
+       },
+       "uzun": null
+      },
+      {
+       "yil": 2026,
+       "kisa": {
+        "n": 7,
+        "x": 0.3,
+        "s": 0.2,
+        "y": 0.3,
+        "b": 1.0,
+        "t": 90
+       },
+       "uzun": null
+      }
+     ],
+     "ileri_yuruyus": {
+      "baslangic": "2021-01-01",
+      "bitis": "2026-11-14",
+      "yillar": [
+       {
+        "yil": 2021,
+        "oran": 0.6650983739905986,
+        "birikimli": 0.6650983739905986,
+        "islem": 37,
+        "eksik_yil": false
+       },
+       {
+        "yil": 2022,
+        "oran": 1.0839417760387993,
+        "birikimli": 0.7209279127438869,
+        "islem": 2,
+        "eksik_yil": false
+       },
+       {
+        "yil": 2023,
+        "oran": 1.0082302442492055,
+        "birikimli": 0.726861325551839,
+        "islem": 0,
+        "eksik_yil": false
+       },
+       {
+        "yil": 2024,
+        "oran": 1.0508979834450078,
+        "birikimli": 0.763857101266593,
+        "islem": 5,
+        "eksik_yil": false
+       },
+       {
+        "yil": 2025,
+        "oran": 0.9916903407144071,
+        "birikimli": 0.757509709012187,
+        "islem": 1,
+        "eksik_yil": false
+       },
+       {
+        "yil": 2026,
+        "oran": 1.1235204676274466,
+        "birikimli": 0.8510776625017034,
+        "islem": 1,
+        "eksik_yil": true
+       }
+      ],
+      "zincir_oran": 0.8510776625017034,
+      "en_iyi_yil_haric": 0.757509709012187,
+      "en_iyi_yil": 2026,
+      "max_dusus": 0.9129448952642689,
+      "taban_max_dusus": 0.9225224435991772,
+      "islem_sayisi": 46,
+      "onde_gun_orani": 0.04710820895522388,
+      "coin_oran": 0.6099185772419351,
+      "kalan_nakit": 10964.281703252296
+     }
+    },
+    "uzun": {
+     "kombinasyon": 216,
+     "secilen": null,
+     "metin": "kapalı (düz alım)",
+     "egitim_ici_oran": 0.9202372933002757,
+     "kat_secimleri": [
+      {
+       "yil": 2021,
+       "kisa": null,
+       "uzun": {
+        "u": 1.6,
+        "sl": 0.3,
+        "l": 0.75,
+        "bl": 0.5,
+        "t": 180
+       }
+      },
+      {
+       "yil": 2022,
+       "kisa": null,
+       "uzun": null
+      },
+      {
+       "yil": 2023,
+       "kisa": null,
+       "uzun": null
+      },
+      {
+       "yil": 2024,
+       "kisa": null,
+       "uzun": null
+      },
+      {
+       "yil": 2025,
+       "kisa": null,
+       "uzun": null
+      },
+      {
+       "yil": 2026,
+       "kisa": null,
+       "uzun": null
+      }
+     ],
+     "ileri_yuruyus": {
+      "baslangic": "2021-01-01",
+      "bitis": "2026-11-14",
+      "yillar": [
+       {
+        "yil": 2021,
+        "oran": 0.136081719919824,
+        "birikimli": 0.136081719919824,
+        "islem": 12,
+        "eksik_yil": false
+       },
+       {
+        "yil": 2022,
+        "oran": 1.1702928725118449,
+        "birikimli": 0.1592554669013232,
+        "islem": 3,
+        "eksik_yil": false
+       },
+       {
+        "yil": 2023,
+        "oran": 1.1122426383323711,
+        "birikimli": 0.17713072067518132,
+        "islem": 0,
+        "eksik_yil": false
+       },
+       {
+        "yil": 2024,
+        "oran": 1.05640734550509,
+        "birikimli": 0.18712219443587186,
+        "islem": 0,
+        "eksik_yil": false
+       },
+       {
+        "yil": 2025,
+        "oran": 1.033450393884432,
+        "birikimli": 0.19338150554427103,
+        "islem": 0,
+        "eksik_yil": false
+       },
+       {
+        "yil": 2026,
+        "oran": 1.064653570834223,
+        "birikimli": 0.20588431041100624,
+        "islem": 0,
+        "eksik_yil": true
+       }
+      ],
+      "zincir_oran": 0.20588431041100624,
+      "en_iyi_yil_haric": 0.175925458700871,
+      "en_iyi_yil": 2022,
+      "max_dusus": 0.861448156613908,
+      "taban_max_dusus": 0.9225224435991772,
+      "islem_sayisi": 15,
+      "onde_gun_orani": 0.0023320895522388058,
+      "coin_oran": 0.20588431041100627,
+      "kalan_nakit": 0.0
+     }
+    },
+    "birlesik": {
+     "secilen": null,
+     "kat_secimleri": [
+      {
+       "yil": 2021,
+       "kisa": {
+        "n": 7,
+        "x": 0.3,
+        "s": 0.5,
+        "y": 0.1,
+        "b": 1.0,
+        "t": 90
+       },
+       "uzun": {
+        "u": 1.6,
+        "sl": 0.3,
+        "l": 0.75,
+        "bl": 0.5,
+        "t": 180
+       }
+      },
+      {
+       "yil": 2022,
+       "kisa": {
+        "n": 7,
+        "x": 0.6,
+        "s": 0.2,
+        "y": 0.2,
+        "b": 1.0,
+        "t": 90
+       },
+       "uzun": null
+      },
+      {
+       "yil": 2023,
+       "kisa": {
+        "n": 7,
+        "x": 0.6,
+        "s": 0.2,
+        "y": 0.2,
+        "b": 1.0,
+        "t": 90
+       },
+       "uzun": null
+      },
+      {
+       "yil": 2024,
+       "kisa": {
+        "n": 7,
+        "x": 0.6,
+        "s": 0.2,
+        "y": 0.2,
+        "b": 1.0,
+        "t": 90
+       },
+       "uzun": null
+      },
+      {
+       "yil": 2025,
+       "kisa": {
+        "n": 7,
+        "x": 1.0,
+        "s": 0.2,
+        "y": 0.1,
+        "b": 1.0,
+        "t": 90
+       },
+       "uzun": null
+      },
+      {
+       "yil": 2026,
+       "kisa": {
+        "n": 7,
+        "x": 0.3,
+        "s": 0.2,
+        "y": 0.3,
+        "b": 1.0,
+        "t": 90
+       },
+       "uzun": null
+      }
+     ],
+     "ileri_yuruyus": {
+      "baslangic": "2021-01-01",
+      "bitis": "2026-11-14",
+      "yillar": [
+       {
+        "yil": 2021,
+        "oran": 0.2561923045751994,
+        "birikimli": 0.2561923045751994,
+        "islem": 49,
+        "eksik_yil": false
+       },
+       {
+        "yil": 2022,
+        "oran": 1.169213934047289,
+        "birikimli": 0.2995436123050102,
+        "islem": 5,
+        "eksik_yil": false
+       },
+       {
+        "yil": 2023,
+        "oran": 1.0497174907339941,
+        "birikimli": 0.3144361690742117,
+        "islem": 0,
+        "eksik_yil": false
+       },
+       {
+        "yil": 2024,
+        "oran": 1.073265599546625,
+        "birikimli": 0.33747352352057775,
+        "islem": 5,
+        "eksik_yil": false
+       },
+       {
+        "yil": 2025,
+        "oran": 1.0044322466145497,
+        "birikimli": 0.338969289402702,
+        "islem": 1,
+        "eksik_yil": false
+       },
+       {
+        "yil": 2026,
+        "oran": 1.1509101811097062,
+        "birikimli": 0.3901232062570922,
+        "islem": 1,
+        "eksik_yil": true
+       }
+      ],
+      "zincir_oran": 0.3901232062570922,
+      "en_iyi_yil_haric": 0.33366280959949074,
+      "en_iyi_yil": 2022,
+      "max_dusus": 0.8596633925961983,
+      "taban_max_dusus": 0.9225224435991772,
+      "islem_sayisi": 61,
+      "onde_gun_orani": 0.004197761194029851,
+      "coin_oran": 0.2802762333347859,
+      "kalan_nakit": 4994.185286746975
+     },
+     "egitim_ici_oran": 1.8325365241195462
+    },
+    "alim": {
+     "kombinasyon": 192,
+     "secilen": null,
+     "metin": "kapalı (düz alım)",
+     "egitim_ici_oran": 1.0005052436440354,
+     "kat_secimleri": [
+      {
+       "yil": 2021,
+       "alim": {
+        "u": 1.25,
+        "k": 0.0,
+        "l": 1.0,
+        "g": 1.0,
+        "t": 0
+       }
+      },
+      {
+       "yil": 2022,
+       "alim": null
+      },
+      {
+       "yil": 2023,
+       "alim": null
+      },
+      {
+       "yil": 2024,
+       "alim": null
+      },
+      {
+       "yil": 2025,
+       "alim": null
+      },
+      {
+       "yil": 2026,
+       "alim": null
+      }
+     ],
+     "ileri_yuruyus": {
+      "baslangic": "2021-01-01",
+      "bitis": "2026-11-14",
+      "yillar": [
+       {
+        "yil": 2021,
+        "oran": 0.9652386436444198,
+        "birikimli": 0.9652386436444198,
+        "islem": 5,
+        "ay": 12,
+        "eksik_yil": false
+       },
+       {
+        "yil": 2022,
+        "oran": 1.0006085458195375,
+        "birikimli": 0.9658260355858658,
+        "islem": 12,
+        "ay": 12,
+        "eksik_yil": false
+       },
+       {
+        "yil": 2023,
+        "oran": 1.0007522888389064,
+        "birikimli": 0.9665526157327623,
+        "islem": 12,
+        "ay": 12,
+        "eksik_yil": false
+       },
+       {
+        "yil": 2024,
+        "oran": 1.000420179986278,
+        "birikimli": 0.9669587417975779,
+        "islem": 12,
+        "ay": 12,
+        "eksik_yil": false
+       },
+       {
+        "yil": 2025,
+        "oran": 1.0002631176034416,
+        "birikimli": 0.9672131656643466,
+        "islem": 12,
+        "ay": 12,
+        "eksik_yil": false
+       },
+       {
+        "yil": 2026,
+        "oran": 1.0005254320552954,
+        "birikimli": 0.9677213704658905,
+        "islem": 11,
+        "ay": 11,
+        "eksik_yil": true
+       }
+      ],
+      "zincir_oran": 0.9677213704658905,
+      "en_iyi_yil_haric": 0.9669939117387987,
+      "en_iyi_yil": 2023,
+      "max_dusus": 0.9222745069721852,
+      "taban_max_dusus": 0.9225224435991772,
+      "islem_sayisi": 64,
+      "onde_gun_orani": 0.0,
+      "coin_oran": 0.9677213704658905,
+      "kalan_yedek": 0.0,
+      "onde_yil": 5,
+      "yil_sayisi": 6,
+      "ortalama_yedek_orani": 0.0007037805004942437,
+      "en_buyuk_yedek": 700.0,
+      "bolgeler": {
+       "pahalı": 7,
+       "ucuz": 3,
+       "normal": 61
+      }
+     }
+    }
+   }
+  },
+  "BTC": {
+   "veri_bas": "2017-08-17",
+   "veri_son": "2026-11-14",
+   "kurallar": {
+    "kisa": {
+     "kombinasyon": 288,
+     "secilen": {
+      "n": 30,
+      "x": 1.0,
+      "s": 0.5,
+      "y": 0.2,
+      "b": 0.5,
+      "t": 0
+     },
+     "metin": "30 günde +%100 -> %50 sat; -%20 düşüşte geri al (nakit kullanımı %50); bekleme sınırı yok",
+     "egitim_ici_oran": 1.2396811393981761,
+     "kat_secimleri": [
+      {
+       "yil": 2019,
+       "kisa": {
+        "n": 30,
+        "x": 0.15,
+        "s": 0.5,
+        "y": 0.3,
+        "b": 0.5,
+        "t": 0
+       },
+       "uzun": null
+      },
+      {
+       "yil": 2020,
+       "kisa": {
+        "n": 30,
+        "x": 0.6,
+        "s": 0.5,
+        "y": 0.3,
+        "b": 0.5,
+        "t": 0
+       },
+       "uzun": null
+      },
+      {
+       "yil": 2021,
+       "kisa": {
+        "n": 7,
+        "x": 0.6,
+        "s": 0.5,
+        "y": 0.3,
+        "b": 0.5,
+        "t": 0
+       },
+       "uzun": null
+      },
+      {
+       "yil": 2022,
+       "kisa": {
+        "n": 30,
+        "x": 1.0,
+        "s": 0.5,
+        "y": 0.1,
+        "b": 1.0,
+        "t": 90
+       },
+       "uzun": null
+      },
+      {
+       "yil": 2023,
+       "kisa": {
+        "n": 30,
+        "x": 1.0,
+        "s": 0.5,
+        "y": 0.3,
+        "b": 0.5,
+        "t": 0
+       },
+       "uzun": null
+      },
+      {
+       "yil": 2024,
+       "kisa": {
+        "n": 30,
+        "x": 1.0,
+        "s": 0.5,
+        "y": 0.2,
+        "b": 0.5,
+        "t": 0
+       },
+       "uzun": null
+      },
+      {
+       "yil": 2025,
+       "kisa": {
+        "n": 30,
+        "x": 1.0,
+        "s": 0.5,
+        "y": 0.2,
+        "b": 0.5,
+        "t": 0
+       },
+       "uzun": null
+      },
+      {
+       "yil": 2026,
+       "kisa": {
+        "n": 30,
+        "x": 1.0,
+        "s": 0.5,
+        "y": 0.2,
+        "b": 0.5,
+        "t": 0
+       },
+       "uzun": null
+      }
+     ],
+     "ileri_yuruyus": {
+      "baslangic": "2019-01-01",
+      "bitis": "2026-11-14",
+      "yillar": [
+       {
+        "yil": 2019,
+        "oran": 0.7733441112167359,
+        "birikimli": 0.7733441112167359,
+        "islem": 15,
+        "eksik_yil": false
+       },
+       {
+        "yil": 2020,
+        "oran": 0.8609810999955059,
+        "birikimli": 0.6658346635504321,
+        "islem": 0,
+        "eksik_yil": false
+       },
+       {
+        "yil": 2021,
+        "oran": 0.9952130789871514,
+        "birikimli": 0.6626473656083995,
+        "islem": 0,
+        "eksik_yil": false
+       },
+       {
+        "yil": 2022,
+        "oran": 1.0388950611441323,
+        "birikimli": 0.6884210754107364,
+        "islem": 3,
+        "eksik_yil": false
+       },
+       {
+        "yil": 2023,
+        "oran": 1.0290688874161142,
+        "birikimli": 0.7084327101467314,
+        "islem": 0,
+        "eksik_yil": false
+       },
+       {
+        "yil": 2024,
+        "oran": 1.0112614449537018,
+        "birikimli": 0.7164106861154507,
+        "islem": 0,
+        "eksik_yil": false
+       },
+       {
+        "yil": 2025,
+        "oran": 1.00651211778369,
+        "birikimli": 0.7210760368849286,
+        "islem": 0,
+        "eksik_yil": false
+       },
+       {
+        "yil": 2026,
+        "oran": 1.0077906727485826,
+        "birikimli": 0.7266937043151439,
+        "islem": 0,
+        "eksik_yil": true
+       }
+      ],
+      "zincir_oran": 0.7266937043151439,
+      "en_iyi_yil_haric": 0.6994871103871052,
+      "en_iyi_yil": 2022,
+      "max_dusus": 0.73763140878445,
+      "taban_max_dusus": 0.7505277532620137,
+      "islem_sayisi": 18,
+      "onde_gun_orani": 0.024695652173913042,
+      "coin_oran": 0.726693704315144,
+      "kalan_nakit": 0.0
+     }
+    },
+    "uzun": {
+     "kombinasyon": 216,
+     "secilen": {
+      "u": 2.0,
+      "sl": 0.3,
+      "l": 0.6,
+      "bl": 1.0,
+      "t": 0
+     },
+     "metin": "oran 2 üstü -> %30 sat; oran 0.6 altı -> al (nakit kullanımı %100); bekleme sınırı yok",
+     "egitim_ici_oran": 1.5778103544472328,
+     "kat_secimleri": [
+      {
+       "yil": 2019,
+       "kisa": null,
+       "uzun": null
+      },
+      {
+       "yil": 2020,
+       "kisa": null,
+       "uzun": {
+        "u": 2.0,
+        "sl": 0.3,
+        "l": 0.75,
+        "bl": 1.0,
+        "t": 180
+       }
+      },
+      {
+       "yil": 2021,
+       "kisa": null,
+       "uzun": {
+        "u": 2.0,
+        "sl": 0.3,
+        "l": 0.6,
+        "bl": 1.0,
+        "t": 365
+       }
+      },
+      {
+       "yil": 2022,
+       "kisa": null,
+       "uzun": {
+        "u": 2.5,
+        "sl": 0.3,
+        "l": 0.75,
+        "bl": 1.0,
+        "t": 365
+       }
+      },
+      {
+       "yil": 2023,
+       "kisa": null,
+       "uzun": {
+        "u": 2.0,
+        "sl": 0.3,
+        "l": 0.6,
+        "bl": 1.0,
+        "t": 0
+       }
+      },
+      {
+       "yil": 2024,
+       "kisa": null,
+       "uzun": {
+        "u": 2.0,
+        "sl": 0.3,
+        "l": 0.6,
+        "bl": 1.0,
+        "t": 0
+       }
+      },
+      {
+       "yil": 2025,
+       "kisa": null,
+       "uzun": {
+        "u": 2.0,
+        "sl": 0.3,
+        "l": 0.6,
+        "bl": 1.0,
+        "t": 0
+       }
+      },
+      {
+       "yil": 2026,
+       "kisa": null,
+       "uzun": {
+        "u": 2.0,
+        "sl": 0.3,
+        "l": 0.6,
+        "bl": 1.0,
+        "t": 0
+       }
+      }
+     ],
+     "ileri_yuruyus": {
+      "baslangic": "2019-01-01",
+      "bitis": "2026-11-14",
+      "yillar": [
+       {
+        "yil": 2019,
+        "oran": 1.0,
+        "birikimli": 1.0,
+        "islem": 0,
+        "eksik_yil": false
+       },
+       {
+        "yil": 2020,
+        "oran": 0.97438125657153,
+        "birikimli": 0.97438125657153,
+        "islem": 1,
+        "eksik_yil": false
+       },
+       {
+        "yil": 2021,
+        "oran": 0.8579776219675908,
+        "birikimli": 0.8359973134030342,
+        "islem": 1,
+        "eksik_yil": false
+       },
+       {
+        "yil": 2022,
+        "oran": 1.1097129848051912,
+        "birikimli": 0.927717073945602,
+        "islem": 1,
+        "eksik_yil": false
+       },
+       {
+        "yil": 2023,
+        "oran": 1.0050042001140385,
+        "birikimli": 0.932359555832836,
+        "islem": 0,
+        "eksik_yil": false
+       },
+       {
+        "yil": 2024,
+        "oran": 1.0019850751293748,
+        "birikimli": 0.9342103595987548,
+        "islem": 0,
+        "eksik_yil": false
+       },
+       {
+        "yil": 2025,
+        "oran": 1.0011585299725698,
+        "birikimli": 0.9352926703010351,
+        "islem": 0,
+        "eksik_yil": false
+       },
+       {
+        "yil": 2026,
+        "oran": 1.001393401086789,
+        "birikimli": 0.9365959081242985,
+        "islem": 0,
+        "eksik_yil": true
+       }
+      ],
+      "zincir_oran": 0.9365959081242985,
+      "en_iyi_yil_haric": 0.8439983319549215,
+      "en_iyi_yil": 2022,
+      "max_dusus": 0.6844085845844892,
+      "taban_max_dusus": 0.7505277532620137,
+      "islem_sayisi": 3,
+      "onde_gun_orani": 0.0010434782608695651,
+      "coin_oran": 0.9365959081242986,
+      "kalan_nakit": 0.0
+     }
+    },
+    "birlesik": {
+     "secilen": null,
+     "kat_secimleri": [
+      {
+       "yil": 2019,
+       "kisa": {
+        "n": 30,
+        "x": 0.15,
+        "s": 0.5,
+        "y": 0.3,
+        "b": 0.5,
+        "t": 0
+       },
+       "uzun": null
+      },
+      {
+       "yil": 2020,
+       "kisa": {
+        "n": 30,
+        "x": 0.6,
+        "s": 0.5,
+        "y": 0.3,
+        "b": 0.5,
+        "t": 0
+       },
+       "uzun": {
+        "u": 2.0,
+        "sl": 0.3,
+        "l": 0.75,
+        "bl": 1.0,
+        "t": 180
+       }
+      },
+      {
+       "yil": 2021,
+       "kisa": {
+        "n": 7,
+        "x": 0.6,
+        "s": 0.5,
+        "y": 0.3,
+        "b": 0.5,
+        "t": 0
+       },
+       "uzun": {
+        "u": 2.0,
+        "sl": 0.3,
+        "l": 0.6,
+        "bl": 1.0,
+        "t": 365
+       }
+      },
+      {
+       "yil": 2022,
+       "kisa": {
+        "n": 30,
+        "x": 1.0,
+        "s": 0.5,
+        "y": 0.1,
+        "b": 1.0,
+        "t": 90
+       },
+       "uzun": {
+        "u": 2.5,
+        "sl": 0.3,
+        "l": 0.75,
+        "bl": 1.0,
+        "t": 365
+       }
+      },
+      {
+       "yil": 2023,
+       "kisa": {
+        "n": 30,
+        "x": 1.0,
+        "s": 0.5,
+        "y": 0.3,
+        "b": 0.5,
+        "t": 0
+       },
+       "uzun": {
+        "u": 2.0,
+        "sl": 0.3,
+        "l": 0.6,
+        "bl": 1.0,
+        "t": 0
+       }
+      },
+      {
+       "yil": 2024,
+       "kisa": {
+        "n": 30,
+        "x": 1.0,
+        "s": 0.5,
+        "y": 0.2,
+        "b": 0.5,
+        "t": 0
+       },
+       "uzun": {
+        "u": 2.0,
+        "sl": 0.3,
+        "l": 0.6,
+        "bl": 1.0,
+        "t": 0
+       }
+      },
+      {
+       "yil": 2025,
+       "kisa": {
+        "n": 30,
+        "x": 1.0,
+        "s": 0.5,
+        "y": 0.2,
+        "b": 0.5,
+        "t": 0
+       },
+       "uzun": {
+        "u": 2.0,
+        "sl": 0.3,
+        "l": 0.6,
+        "bl": 1.0,
+        "t": 0
+       }
+      },
+      {
+       "yil": 2026,
+       "kisa": {
+        "n": 30,
+        "x": 1.0,
+        "s": 0.5,
+        "y": 0.2,
+        "b": 0.5,
+        "t": 0
+       },
+       "uzun": {
+        "u": 2.0,
+        "sl": 0.3,
+        "l": 0.6,
+        "bl": 1.0,
+        "t": 0
+       }
+      }
+     ],
+     "ileri_yuruyus": {
+      "baslangic": "2019-01-01",
+      "bitis": "2026-11-14",
+      "yillar": [
+       {
+        "yil": 2019,
+        "oran": 0.7733441112167359,
+        "birikimli": 0.7733441112167359,
+        "islem": 15,
+        "eksik_yil": false
+       },
+       {
+        "yil": 2020,
+        "oran": 0.8406313516347711,
+        "birikimli": 0.6500973054909154,
+        "islem": 1,
+        "eksik_yil": false
+       },
+       {
+        "yil": 2021,
+        "oran": 0.8641284899730993,
+        "birikimli": 0.5617676029294454,
+        "islem": 1,
+        "eksik_yil": false
+       },
+       {
+        "yil": 2022,
+        "oran": 1.1464205287026574,
+        "birikimli": 0.6440219123583993,
+        "islem": 4,
+        "eksik_yil": false
+       },
+       {
+        "yil": 2023,
+        "oran": 1.0355007162044876,
+        "birikimli": 0.6668851514985062,
+        "islem": 0,
+        "eksik_yil": false
+       },
+       {
+        "yil": 2024,
+        "oran": 1.0136677450035536,
+        "birikimli": 0.675999967695844,
+        "islem": 0,
+        "eksik_yil": false
+       },
+       {
+        "yil": 2025,
+        "oran": 1.0078848387952872,
+        "birikimli": 0.6813301184667452,
+        "islem": 0,
+        "eksik_yil": false
+       },
+       {
+        "yil": 2026,
+        "oran": 1.0094200591368145,
+        "birikimli": 0.6877482884743948,
+        "islem": 0,
+        "eksik_yil": true
+       }
+      ],
+      "zincir_oran": 0.6877482884743948,
+      "en_iyi_yil_haric": 0.599909257777059,
+      "en_iyi_yil": 2022,
+      "max_dusus": 0.6720726913764998,
+      "taban_max_dusus": 0.7505277532620137,
+      "islem_sayisi": 21,
+      "onde_gun_orani": 0.024695652173913042,
+      "coin_oran": 0.6877482884743948,
+      "kalan_nakit": 0.0
+     },
+     "egitim_ici_oran": 1.8128370604049338
+    },
+    "alim": {
+     "kombinasyon": 192,
+     "secilen": {
+      "u": 1.5,
+      "k": 0.0,
+      "l": 1.0,
+      "g": 1.0,
+      "t": 365
+     },
+     "metin": "oran 1.5 üstü -> aylık alım %0; oran 1 altı -> yedek kullanımı %100; bekleme sınırı 365 gün",
+     "egitim_ici_oran": 1.0085078112108359,
+     "kat_secimleri": [
+      {
+       "yil": 2019,
+       "alim": null
+      },
+      {
+       "yil": 2020,
+       "alim": {
+        "u": 1.25,
+        "k": 0.0,
+        "l": 0.75,
+        "g": 0.5,
+        "t": 0
+       }
+      },
+      {
+       "yil": 2021,
+       "alim": {
+        "u": 1.5,
+        "k": 0.0,
+        "l": 1.0,
+        "g": 1.0,
+        "t": 365
+       }
+      },
+      {
+       "yil": 2022,
+       "alim": {
+        "u": 1.5,
+        "k": 0.0,
+        "l": 1.0,
+        "g": 1.0,
+        "t": 365
+       }
+      },
+      {
+       "yil": 2023,
+       "alim": {
+        "u": 1.5,
+        "k": 0.0,
+        "l": 1.0,
+        "g": 1.0,
+        "t": 365
+       }
+      },
+      {
+       "yil": 2024,
+       "alim": {
+        "u": 1.5,
+        "k": 0.0,
+        "l": 1.0,
+        "g": 1.0,
+        "t": 365
+       }
+      },
+      {
+       "yil": 2025,
+       "alim": {
+        "u": 1.5,
+        "k": 0.0,
+        "l": 1.0,
+        "g": 1.0,
+        "t": 365
+       }
+      },
+      {
+       "yil": 2026,
+       "alim": {
+        "u": 1.5,
+        "k": 0.0,
+        "l": 1.0,
+        "g": 1.0,
+        "t": 365
+       }
+      }
+     ],
+     "ileri_yuruyus": {
+      "baslangic": "2019-01-01",
+      "bitis": "2026-11-14",
+      "yillar": [
+       {
+        "yil": 2019,
+        "oran": 1.0,
+        "birikimli": 1.0,
+        "islem": 12,
+        "ay": 12,
+        "eksik_yil": false
+       },
+       {
+        "yil": 2020,
+        "oran": 0.9728040321833701,
+        "birikimli": 0.9728040321833701,
+        "islem": 8,
+        "ay": 12,
+        "eksik_yil": false
+       },
+       {
+        "yil": 2021,
+        "oran": 0.9982124863579305,
+        "birikimli": 0.971065131704782,
+        "islem": 7,
+        "ay": 12,
+        "eksik_yil": false
+       },
+       {
+        "yil": 2022,
+        "oran": 1.0020507898750561,
+        "birikimli": 0.9730565822449023,
+        "islem": 12,
+        "ay": 12,
+        "eksik_yil": false
+       },
+       {
+        "yil": 2023,
+        "oran": 1.0017783984998294,
+        "birikimli": 0.9747870646110158,
+        "islem": 12,
+        "ay": 12,
+        "eksik_yil": false
+       },
+       {
+        "yil": 2024,
+        "oran": 1.0007775374371675,
+        "birikimli": 0.9755449980470174,
+        "islem": 13,
+        "ay": 12,
+        "eksik_yil": false
+       },
+       {
+        "yil": 2025,
+        "oran": 1.0004123963717169,
+        "birikimli": 0.9759473092646586,
+        "islem": 12,
+        "ay": 12,
+        "eksik_yil": false
+       },
+       {
+        "yil": 2026,
+        "oran": 1.0004963722500169,
+        "birikimli": 0.9764317424264563,
+        "islem": 11,
+        "ay": 11,
+        "eksik_yil": true
+       }
+      ],
+      "zincir_oran": 0.9764317424264563,
+      "en_iyi_yil_haric": 0.9744333843080006,
+      "en_iyi_yil": 2022,
+      "max_dusus": 0.7500566169638212,
+      "taban_max_dusus": 0.7505277532620137,
+      "islem_sayisi": 87,
+      "onde_gun_orani": 0.017739130434782608,
+      "coin_oran": 0.9764317424264563,
+      "kalan_yedek": 0.0,
+      "onde_yil": 5,
+      "yil_sayisi": 8,
+      "ortalama_yedek_orani": 0.002937065546325667,
+      "en_buyuk_yedek": 900.0,
+      "bolgeler": {
+       "pahalı": 11,
+       "ucuz": 31,
+       "normal": 53
+      }
+     }
+    }
+   }
+  }
+ }
+}

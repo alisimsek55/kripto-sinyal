@@ -1,0 +1,52 @@
+{
+  "baslangic": "2026-11-14",
+  "geriye_donuk": false,
+  "olusturma_zamani_utc": "2026-11-15T19:11:28.345742+00:00",
+  "ayarlar": {
+    "aylik_tutar": 100.0,
+    "komisyon": 0.001,
+    "kayma": 0.0005
+  },
+  "coinler": {
+    "DOGE": {
+      "kisa": {
+        "n": 7,
+        "x": 0.3,
+        "s": 0.2,
+        "y": 0.3,
+        "b": 1.0,
+        "t": 90
+      },
+      "uzun": null,
+      "alim": null,
+      "kapanis": 0.05737,
+      "baslangic_coin": 792486.1984586435
+    },
+    "BTC": {
+      "kisa": {
+        "n": 30,
+        "x": 1.0,
+        "s": 0.5,
+        "y": 0.2,
+        "b": 0.5,
+        "t": 0
+      },
+      "uzun": {
+        "u": 2.0,
+        "sl": 0.3,
+        "l": 0.6,
+        "bl": 1.0,
+        "t": 0
+      },
+      "alim": {
+        "u": 1.5,
+        "k": 0.0,
+        "l": 1.0,
+        "g": 1.0,
+        "t": 365
+      },
+      "kapanis": 64150.0,
+      "baslangic_coin": 0.7480589559196502
+    }
+  }
+}

@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+veri/*.csv
+durum.json
+takip/karne.json
+/gecmis/
+veri/kur.json

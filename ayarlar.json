@@ -1,0 +1,13 @@
+{
+  "aylik_tutar": 100.0,
+  "komisyon": 0.001,
+  "kayma": 0.0005,
+  "ana_coin": "DOGE",
+  "coinler": {
+    "DOGE": "DOGEUSDT",
+    "BTC": "BTCUSDT"
+  },
+  "sonuc_dosyasi": "sonuc/parametreler.json",
+  "durum_dosyasi": "durum.json",
+  "veri_klasoru": "veri"
+}
